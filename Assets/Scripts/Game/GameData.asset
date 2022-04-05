@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd8328dd1a9c7804a8bd386285b13d9b, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  _GameType: 0
+  LEFT: 276
+  RIGHT: 275
+  UP: 273
+  DOWN: 274
+  FIRE: 114
+  AltLEFT: 97
+  AltRIGHT: 100
+  AltUP: 119
+  AltDOWN: 115
+  AltFIRE: 101
+  PlayerFireClip: {fileID: 8300000, guid: 814722732e52d1b47adb2e3dfe434305, type: 3}
+  AsteroidBurst: {fileID: 8300000, guid: 344c58431711063418f034d11d616bcd, type: 3}
+  ShipBurst: {fileID: 8300000, guid: 73e4ca00090c6c04896671fdb2613b97, type: 3}
